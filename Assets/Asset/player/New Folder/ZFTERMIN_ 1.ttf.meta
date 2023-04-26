@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 0b5ea16d779e4dd4286e8957c3345af4
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - '#ZF Terminal'
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e10a87a8e906abf409bb122ab9c64f33, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

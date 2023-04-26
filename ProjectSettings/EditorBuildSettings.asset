@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/SceneGame/Scene_00_01.unity
+    guid: 66ddfb752a1389442b016fd4b4ad9c33
+  - enabled: 1
+    path: Assets/SceneGame/Scene_00.unity
+    guid: f4aa24332ca3f8f41ac0ecc21f1e241f
+  - enabled: 1
+    path: Assets/SceneGame/Scene_01.unity
+    guid: 14bc35dbbdfc10d438e2974af035538b
+  - enabled: 1
+    path: Assets/SceneGame/Scene_16.unity
+    guid: 6fbb76af98143d748b4e5f73f4ec8ce3
+  - enabled: 1
+    path: Assets/SceneGame/Scene_02.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/SceneGame/Scene_03.unity
+    guid: 46c9d8b523c39fb4691abf9463593019
+  - enabled: 1
+    path: Assets/SceneGame/Scene_10.unity
+    guid: 7f8d2b14cc55c5c419d586e4159d826c
+  - enabled: 1
+    path: Assets/SceneGame/Scene_11.unity
+    guid: 13b5bc97856ec224d9d671b5948d0b8c
+  - enabled: 1
+    path: Assets/SceneGame/Scene_04.unity
+    guid: 52caaf688c788cf4aa743f483f53bc71
+  - enabled: 1
+    path: Assets/SceneGame/Scene_12.unity
+    guid: f72b990c54a4fab4da81c4b6933f369c
+  - enabled: 1
+    path: Assets/SceneGame/Scene_13.unity
+    guid: f5c43f796d2198d449b49a40d8e0d550
+  - enabled: 1
+    path: Assets/SceneGame/Scene_05.unity
+    guid: cf219187d7d28c6478e87fb88e8054c1
+  - enabled: 1
+    path: Assets/SceneGame/Scene_14.unity
+    guid: 3b75302ed5a5dae47bbc6788f0719ab9
+  - enabled: 1
+    path: Assets/SceneGame/Scene_15.unity
+    guid: 9d9245bbaf5a1574590cfc0ed267efc1
+  - enabled: 1
+    path: Assets/SceneGame/Scene_06.unity
+    guid: a7de8704906f59147835321e6c4acd01
+  - enabled: 1
+    path: Assets/SceneGame/Scene_07.unity
+    guid: b0f369d0c9429504f94cd5620949f148
+  - enabled: 1
+    path: Assets/SceneGame/Scene_17.unity
+    guid: fb4f581c949cbf248906f60cbfb67639
+  - enabled: 1
+    path: Assets/SceneGame/Scene_08.unity
+    guid: 4bce2c0d7e139a04e987c42e02dccd6e
+  - enabled: 1
+    path: Assets/SceneGame/Scene_09.unity
+    guid: 4e2d4980f518b034189a010f682eaa27
+  m_configObjects: {}
